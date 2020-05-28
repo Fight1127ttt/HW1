@@ -15,17 +15,15 @@ Based on README file's definition, it should comtain
 
 1. The name of the project, all submodules and repositories
 2. Description for the project, all submodules and repositories
-3. Configuration instructions
-4. Installation instructions
-5. Operating instructions
-6. A file manifest
-7. Copyright and licensing information
-8. Contact information for the distributor or programmer
-9. Known bugs
-10. Troubleshooting
-11. Credits and acknowledgements
-12. A changelog (usually for programmers)
-13. A new section (usually for users)
+3. Instructions for installing, configuring, and running programs
+4. A file manifest
+5. Copyright and licensing information
+6. Contact information for the distributor or programmer
+7. Known bugs
+8. Troubleshooting
+9. Credits and acknowledgements
+10. A changelog (usually for programmers)
+11. A new section (usually for users)
 
 # Binary-Search
 
