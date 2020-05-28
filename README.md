@@ -1,6 +1,5 @@
-# HW1
-README.md file
-＃Introduction to README.md File
+# Introduction to README File
+README file
 
 ## 1. What is a README file
 In gerneral, README file ia an introduction to
