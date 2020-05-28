@@ -1,5 +1,4 @@
 # Introduction to README File
-README file
 
 ## 1. What is a README file
 In gerneral, README file ia an introduction to
@@ -25,6 +24,7 @@ Based on README file's definition, it should comtain
 11. Credits and acknowledgements
 12. A changelog
 
-### Reference
+## Reference
 1. https://en.wikipedia.org/wiki/README
 2. https://www.makeareadme.com/
+3. https://www.cnblogs.com/wj-1314/p/8547763.html
