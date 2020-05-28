@@ -22,7 +22,8 @@ Based on README file's definition, it should comtain
 9. Known bugs
 10. Troubleshooting
 11. Credits and acknowledgements
-12. A changelog
+12. A changelog (usually for programmers)
+13. A new section (usually for users)
 
 ## Reference
 1. https://en.wikipedia.org/wiki/README
