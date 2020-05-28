@@ -1,7 +1,7 @@
 # Introduction to README File
 
 ## 1. What is a README file
-In gerneral, README file ia an introduction to
+In gerneral, README file is an introduction to
 
 1. What the project can do and the basic functions
 2. How can the project work and explain the project
