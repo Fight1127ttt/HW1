@@ -41,3 +41,6 @@ If not, then it needs to look on the descending portion of the array
 3. https://www.cnblogs.com/wj-1314/p/8547763.html
 4. https://www.techopedia.com/definition/14270/binary-search
 5. https://en.wikipedia.org/wiki/Binary_search_algorithm
+
+
+I don't know what to do
